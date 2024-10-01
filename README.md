@@ -1,2 +1,2 @@
-# 30-Day-ML-Challenge---Day-01-Life-Expectancy-Prediction-using-Linear-Regression-
+# 30-Day-ML-Challenge-Day-01-Life-Expectancy-Prediction-using-Linear-Regression-
 This project implements a machine learning model to predict life expectancy based on various health and socioeconomic factors. Utilizing a dataset with features like adult mortality, healthcare access, and infant deaths, the model applies multiple linear regression for accurate predictions. Visualizations and analysis included.
